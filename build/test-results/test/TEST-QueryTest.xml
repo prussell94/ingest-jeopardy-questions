@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="QueryTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-28T03:06:38" hostname="fedora" time="0.033">
+  <properties/>
+  <testcase name="testBUilder()" classname="QueryTest" time="0.033"/>
+  <system-out><![CDATA[http://cluebase.lukelav.in/clues?limit=10&offset=20&order=cats&sort=asc&category=Presidents&difficulty=2
+http://cluebase.lukelav.in/clues?limit=10&offset=20&order=cats&sort=asc&category=Presidents&difficulty=2
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
