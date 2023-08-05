@@ -5,7 +5,7 @@ https://cluebase.readthedocs.io/en/latest/
 
 Categories, clues, contestants, games and seasons are all retrieved.
 
-To start postgres run the docker-compose file:
+To start postgres go into the src/test/resources/ package and run the docker-compose file:
 
 ```
 docker-compose -f docker-compose-postgres.yml up -d
